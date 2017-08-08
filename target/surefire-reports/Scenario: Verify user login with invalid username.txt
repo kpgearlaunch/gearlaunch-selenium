@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Verify user login with invalid username
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 1, Time elapsed: 0.155 sec <<< FAILURE! - in Scenario: Verify user login with invalid username
+Scenario: Verify user login with invalid username  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException
+
